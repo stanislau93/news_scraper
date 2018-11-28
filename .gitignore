@@ -1,0 +1,4 @@
+**/pycache
+/assets/articles/*
+/assets/images/*
+*.db
